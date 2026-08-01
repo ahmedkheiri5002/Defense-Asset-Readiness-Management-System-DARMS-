@@ -232,9 +232,9 @@ Additional project documentation can be found in the `/docs` directory.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/darms.git
+git clone https://github.com/yourusername/Defense-Asset-Readiness-Management-System-DARMS-.git
 
-cd darms
+cd Defense-Asset-Readiness-Management-System-DARMS-
 ```
 
 ---
