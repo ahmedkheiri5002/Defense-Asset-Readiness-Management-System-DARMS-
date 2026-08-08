@@ -208,12 +208,8 @@ Additional project documentation can be found in the `/docs` directory.
 |----------|-------------|
 | BusinessRequirements.md | Business requirements document |
 | UserStories.md | Agile user stories |
-| ProductBacklog.md | Product backlog |
 | Architecture.md | System architecture |
 | DatabaseDesign.md | Entity relationship design |
-| API.md | API documentation |
-| TestingStrategy.md | Testing approach |
-| SprintPlan.md | Agile sprint planning |
 
 ---
 
